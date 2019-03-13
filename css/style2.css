@@ -29,7 +29,7 @@ article {padding: 60px;}
   position: relative;
   top: 0;
   left: -30px;
-  color: #0068FF;
+  color: #045a8d;
   font-size: 24px;
 }
 article::after {
@@ -37,10 +37,10 @@ article::after {
   position: relative;
   top: 40px;
   left: 300px;
-  color: #0068FF;
+  color: #045a8d;
   font-size: 44px;
 } */
-hr {border-bottom: 3px solid #0068FF;}
+hr {border-bottom: 3px solid #045a8d;}
 
 .meta {text-transform: uppercase; font-family: Arial, Courier New, Source Sans Pro, sans-serif; font-size: 10px; letter-spacing: .15em;}
 .meta a:hover {color: #333;}
